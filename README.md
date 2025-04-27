@@ -1,2 +1,3 @@
-# conet-go
-go workflow web api
+# wf-go
+
+workflow web api
